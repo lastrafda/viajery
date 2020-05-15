@@ -93,7 +93,7 @@ nav ul {
 
 .hero {
 	min-height: 90vh;
-	background: linear-gradient(rgba(0,0,0, 0.5), transparent),url('./img/landing-page.jpg');
+	background: linear-gradient(rgba(0,0,0, 0.6), transparent),url('./img/landing-page.jpg');
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;
@@ -107,6 +107,7 @@ nav ul {
 
 .hero h3 {
 	padding: 5rem;
+	font-weight: 500;
 }
 
 /* THE LOCATIONS SECTION */
