@@ -288,6 +288,11 @@ footer ul {
 	justify-content: space-between;
 }
 
+button:focus {
+	background: #2c3f57;
+	outline-style: solid;
+}
+
 /* MEDIA QUERIES */
 @media screen and (max-width: 932px) {
 	html {
